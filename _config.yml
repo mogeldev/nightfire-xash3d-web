@@ -1,0 +1,8 @@
+# GitHub Pages build settings.
+# AGENTS.md stays in the repository but must not be published with the site.
+exclude:
+  - AGENTS.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
